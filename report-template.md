@@ -23,17 +23,27 @@ Data Size: 77536 rows x 8 columns
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
+
+
 Accuracy: 0.9520479254722232
+
 Precision: 1.0 / 0.85
+
 Recall scores: 0.99 / 0.91
+
 Support : 18765
 
 
 
 * Machine Learning Model 2:
+
+
 Accuracy: 0.9936781215845847
+
 Precision: 1.0 / 0.84
+
 Recall scores: 0.99 / 0.99
+
 Support : 18765
 
 
